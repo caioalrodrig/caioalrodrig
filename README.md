@@ -3,7 +3,7 @@
 
 Majoring in electronic engineer, for Universidade Federal de Juiz de Fora, with conclusion planned for 2024. 
 
-Main interests are DSPs and power electronics.
+Main interests are on DSPs, power electronics and Fridays.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioalrodrig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
