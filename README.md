@@ -2,7 +2,7 @@
 ### Hi there, ✋
 I'm *Caio Almeida Rodrigues*, currently majoring in Electronic Engineering at *Universidade Federal* *de* *Juiz de Fora*. Expected to graduate in December 2023.
 
-My main interests are in: *machine learning*, *data analytics*, *artificial intelligence* (AI), and *web development*.
+My main interests are in: machine learning, AI and software development (backend).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioalrodrig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
