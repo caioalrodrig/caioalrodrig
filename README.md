@@ -4,10 +4,9 @@ I'm *Caio Almeida Rodrigues*, currently majoring in Electronic Engineering at *U
 
 My main interests are in: machine learning, AI and software development (backend).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioalrodrig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioalrodrig&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
