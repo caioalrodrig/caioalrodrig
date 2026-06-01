@@ -7,12 +7,11 @@ My main hobby is using Anki for Spaced Repetition: I love hacking my neuroplasti
 
 
 **I'm most familiar with:** \
-Languages: Java, Python, Kotlin, Golang \
-Architecture: Hexagonal, Microservices, Event-driven \
+Languages: Java, Python, TypeScript, Kotlin \
+Architecture: Clean, Hexagonal, Microservices, Event-driven \
 DevOps: **Docker**, Kubernetes, Github Actions, Linux, **Terraform** \
-Database: **PostgreSQL**, NoSQL, Redis, Mongo \
-AI: LangGraph, **LLMs**, Embeddings
-
+Database: **PostgreSQL**, NoSQL, Redis, DynamoDB \
+AWS-Cloud: Lambda, SNS, SQS, RDS, S3, IAM, CloudFront
 
 ✍️ **Latest Insights** \
 I write about industry-graded study cases (with available repositories) based on my real-world experience. 
