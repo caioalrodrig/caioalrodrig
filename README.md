@@ -1,9 +1,9 @@
 ***Caio | Software Engineer*** 
 
-Building revenue-driving systems (Java, Python & Angular) from ground-up (Cloud & Infrastructure with AWS, Docker & Terraform).
+Building revenue-driving systems (mainly in Java Angular) from ground-up (including Cloud & Infrastructure with AWS, Docker & Terraform).
 
 
-My main hobby is using Anki for Spaced Repetition: I love hacking my neuroplasticity to make cool stuff I learn stick for the long run.
+My main hobby is building hardware devices, from fixig my family's house-hold appliances to designing kludgy electronic boards.
 
 
 **I'm most familiar with:** \
